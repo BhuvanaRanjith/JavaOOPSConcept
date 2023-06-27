@@ -5,7 +5,7 @@ public class PyramidTriangle {
            System.out.print("\n");
             for (int j = 1; j<=4-i; j++) {
                 System.out.print(k +" ");
-                k--;
+                k-- ;
             }
 
         }
